@@ -7,6 +7,10 @@ My Oasis Infobyte Data Science tasks
 - Used Python, Pandas, Matplotlib, Seaborn
 - Folder: DataScience-Task1-SalesAnalysis
 
-### Task 2 - Unemployment Analysis (Coming Soon)
+### Task 2 - Iris Flower Classification
+- Classified Iris flowers using Python, Scikit-learn
+- Used Matplotlib, Seaborn for visualization
+- Accuracy: 97%
+- Folder: DataScience-Task2-IrisClassification
 
 Intern: iswaryaisu13
