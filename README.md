@@ -12,7 +12,7 @@ My Oasis Infobyte Data Science tasks
 - Used Matplotlib, Seaborn for visualization
 - Accuracy: 97%
 - Folder: DataScience-Task2-IrisClassification
-- 
+  
 ### Task 3 - Car Price Prediction
 - Predicted used car prices using Python, Scikit-learn
 - Used Pandas, Matplotlib, Seaborn for EDA and visualization
